@@ -730,7 +730,6 @@ button:focus {
         clip-path: none;
     }
     .header-content {
-        max-width: 800px;
         max-height: 138px;
     }
 }
