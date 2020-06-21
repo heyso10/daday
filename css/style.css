@@ -729,6 +729,10 @@ button:focus {
     .clip-home{
         clip-path: none;
     }
+    .header-content {
+        max-width: 800px;
+        max-height: 138px;
+    }
 }
 
 @media (max-width: 2560px) {
